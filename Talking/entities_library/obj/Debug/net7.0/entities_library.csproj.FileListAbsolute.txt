@@ -1,0 +1,12 @@
+/home/administrador/Talking/entities_library/bin/Debug/net7.0/entities_library.deps.json
+/home/administrador/Talking/entities_library/bin/Debug/net7.0/entities_library.dll
+/home/administrador/Talking/entities_library/bin/Debug/net7.0/entities_library.pdb
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.csproj.AssemblyReference.cache
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.GeneratedMSBuildEditorConfig.editorconfig
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.AssemblyInfoInputs.cache
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.AssemblyInfo.cs
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.csproj.CoreCompileInputs.cache
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.dll
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/refint/entities_library.dll
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/entities_library.pdb
+/home/administrador/Talking/entities_library/obj/Debug/net7.0/ref/entities_library.dll
